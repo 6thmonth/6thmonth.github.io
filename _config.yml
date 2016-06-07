@@ -2,7 +2,7 @@
 uri: hoony.de
 url: http://hoony.de
 name: Hoony Chang
-title: website de hoony
+title: "Hoony's hacking stories"
 email: hoonch3@gmail.com
 author: hoony
 baseurl: ""
@@ -16,7 +16,7 @@ sass:
 markdown: kramdown
 encoding: "utf-8"
 paginate: 5
-permalink: /post/:title
+permalink: /post/:categories/:title
 # paginate_path: "/blog/page:num/"
 
 # Plugins ...
