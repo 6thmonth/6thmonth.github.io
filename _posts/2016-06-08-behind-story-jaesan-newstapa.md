@@ -40,7 +40,7 @@ description: "2016년 코드나무가 뉴스타파와 협력하여 구축한 고
 
 *고위공직자 재산 정보 사이트 구글 분석 결과*
 
-공개 첫날 방문자 수는 약 7000명, 둘째날은 약 5000명, 이후 매일 평균 500 ~ 600명이 방문하고 있으며, 현재까지 누적 페이지 뷰 수는 약 73,000명 정도이다. 솔직히 내 경험 내에서는 이런 반응을 비교해볼만한 대상이 없기 때문에 이 숫자들이 크게 와닿지는다. 다만, 페이스북을 통한 지인들의 감사함(?) 표현과 익명의 사람들이 남기는 뉴스타파와 코드[옛 CC Korea]에 대한 감사말들을 보며 이렇게 훌륭한 기회를 결과물로 만들었던 뉴스타파분들에게 나또한 감사를 표하게 된다.
+공개 첫날 방문자 수는 약 7000명, 둘째날은 약 5000명, 이후 매일 평균 500 ~ 600명이 방문하고 있으며, 현재까지 누적 페이지 뷰 수는 약 73,000명 정도이다. 솔직히 내 경험 내에서는 이런 반응을 비교해볼만한 대상이 없기 때문에 이 숫자들이 크게 와닿지는다. 다만, 페이스북을 통한 지인들의 감사함(?) 표현과 익명의 사람들이 남기는 뉴스타파와 코드[옛 CC Korea]에 대한 감사말들을 보며 이렇게 훌륭한 기회를 결과물로 만들었던 뉴스타파분들에게 나또한 감사를 표하고 싶다.
 
 <blockquote class="twitter-tweet" data-lang="ko"><p lang="ko" dir="ltr">내가 후원하는 두 개의 단체, <a href="https://twitter.com/newstapa">@newstapa</a> 뉴스타파와 <a href="https://twitter.com/cckorea">@cckorea</a> 가 고위공직자 재산을 검색하는 사이트를 공동 제작했다. <a href="https://t.co/h8NQcqLImE">https://t.co/h8NQcqLImE</a> 후원금 내는 보람이 있군.</p>&mdash; 생각 없는 트잉여 (@mirooahn) <a href="https://twitter.com/mirooahn/status/738281774854197248">2016년 6월 2일</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
