@@ -40,7 +40,7 @@ description: "2016년 코드나무가 뉴스타파와 협력하여 구축한 고
 
 *고위공직자 재산 정보 사이트 구글 분석 결과*
 
-공개 첫날 방문자 수는 약 7000명, 둘째날은 약 5000명, 이후 매일 평균 500 ~ 600명이 방문하고 있으며, 현재까지 누적 페이지 뷰 수는 약 73,000명 정도이다. 솔직히 내 경험 내에서는 이런 반응을 비교해볼만한 대상이 없기 때문에 이 숫자들이 크게 와닿지는다. 다만, 페이스북을 통한 지인들의 감사함(?) 표현과 익명의 사람들이 남기는 뉴스타파와 코드[옛 CC Korea]에 대한 감사말들을 보며 이렇게 훌륭한 기회를 결과물로 만들었던 뉴스타파분들에게 나또한 감사를 표하고 싶다.
+공개 첫날 방문자 수는 약 7000명, 둘째날은 약 5000명, 이후 매일 평균 500 ~ 600명이 방문하고 있으며, 현재까지 누적 페이지 뷰 수는 약 73,000명 정도이다. 솔직히 내 경험 내에서는 이런 반응을 비교해볼만한 대상이 없기 때문에 이 숫자들이 크게 와닿지는 않더라. 다만, 페이스북을 통한 지인들의 감사함(?) 표현과 익명의 사람들이 남기는 뉴스타파와 코드[옛 CC Korea]에 대한 감사말들을 보며 이렇게 훌륭한 기회를 결과물로 만들었던 뉴스타파분들에게 나또한 감사를 표하고 싶다.
 
 <blockquote class="twitter-tweet" data-lang="ko"><p lang="ko" dir="ltr">내가 후원하는 두 개의 단체, <a href="https://twitter.com/newstapa">@newstapa</a> 뉴스타파와 <a href="https://twitter.com/cckorea">@cckorea</a> 가 고위공직자 재산을 검색하는 사이트를 공동 제작했다. <a href="https://t.co/h8NQcqLImE">https://t.co/h8NQcqLImE</a> 후원금 내는 보람이 있군.</p>&mdash; 생각 없는 트잉여 (@mirooahn) <a href="https://twitter.com/mirooahn/status/738281774854197248">2016년 6월 2일</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -62,7 +62,7 @@ description: "2016년 코드나무가 뉴스타파와 협력하여 구축한 고
 
 * 국내 언론사들의 잘못된 관행
 
-	아직 관보 pdf 파일을 열어보지 않았다면 지금에라도 열어보고 오면 좋겠다. 이 pdf 자료를 무려 11년치나! 엑셀로 옮기기 위해 뉴스타파가 들인 공이 얼마나 될까 상상이나 되는가? 혹시 그렇다면 뉴스타파에서는 이 데이터를 돈을 주고 판매를 할 생각이였을까? 절대 아니다. 100% 시민들의 후원금으로만 돌아가는 뉴스타파는 어떠한 방법으로라도 영리적인 목적의 활동은 하지 않는다고 한다. 다만, 뉴스타파에서 이번 데이터 뿐만 아니라 다른 상황에서도 마찬가지로 우리나라 언론들이 갖는 '출처 표기' 관행에 대해 큰 아쉬움을 표했다. 이번 재산 데이터 또한 물론 궁극적인 자료의 출처는 대한민국 전자관보 홈페이지 이지만 보시다시피 pdf를 읽어내기란 쉽지가 않다. 분명 이렇게 검색사이트를 구축하고 원데이터까지 공개하고 나면 pdf가 아닌 이 사이트나 이 데이터를 이용할 것이다. 과연 얼마나 많은 언론사가 관련 기사를 쓰면서 '뉴스타파의 서비스를...', '뉴스타파가 공개한 데이터를...' 이란 출처 표기를 할지 의문이라는 것이 뉴스타파의 생각이다.
+	아직 관보 pdf 파일을 열어보지 않았다면 지금에라도 열어보고 오면 좋겠다. 이 pdf 자료를 무려 11년치나! 엑셀로 옮기기 위해 뉴스타파가 들인 공이 얼마나 될까 상상이나 되는가? 혹시 그렇다면 뉴스타파에서는 이 데이터를 돈을 주고 판매를 할 생각이였을까? 절대 아니다. 100% 시민들의 후원금으로만 돌아가는 뉴스타파는 어떠한 방법으로라도 영리적인 목적의 활동은 하지 않는다고 한다. 다만, 뉴스타파에서 이번 데이터 뿐만 아니라 다른 상황에서도 아쉬워 했던 부분은 우리나라 언론들이 다른 언론사들에 대한 출처 표기를 명확히 해주지 않는 아쉬운 관행에 대해 여러번 이야기를 하더라. 이번 재산 데이터 또한 물론 궁극적인 자료의 출처는 대한민국 전자관보 홈페이지 이지만 보시다시피 pdf를 읽어내기란 쉽지가 않다. 분명 이렇게 검색사이트를 구축하고 원데이터까지 공개하고 나면 pdf가 아닌 이 사이트나 이 데이터를 이용할 것이다. 과연 얼마나 많은 언론사가 관련 기사를 쓰면서 '뉴스타파의 서비스를...', '뉴스타파가 공개한 데이터를...' 이란 출처 표기를 할지 의문이라는 것이 뉴스타파의 생각이다.
 
 #### 2. 시의성이냐 완성도냐
 
@@ -91,9 +91,12 @@ description: "2016년 코드나무가 뉴스타파와 협력하여 구축한 고
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/jwyg/6892044360/in/photolist-bv2wF3-epZQu9-ehBR2S-ecp3D6-eckTCA-eBjc9n-exdpBT-eArfr6-eLTWFA-ecV8sT-et16pU-6eMSU8-eHaqoG-eh6MEm-eNpxAy-eAwNiL-eKZcGX-erCcqh-eqCSZD-eGEfHT-eKSFj4-bHWiJ6-ezgNZe-eFf3CF-bHWiGT-eL6ETS-bv2wJJ-biqxVa-et32Us-ewxwjF-edhoX9-8eDNaT-eLXyYU-eFc5d9-eBqBbf-eAkay3-61QHcU-eFtcV3-eX5sMZ-fiVrNh-ei8bj9-eqyRHC-eAiavm-9E7S2e-ed3cw9-edgCDm-9GRXSS-9Q19dd-fiGHQr-61CvUx" title="Data Journalism Handbook - Chapter 1: Introduction"><img src="https://c1.staticflickr.com/8/7129/6892044360_78f82b5199_b.jpg" width="500" height="375" alt="Data Journalism Handbook - Chapter 1: Introduction"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-*[Data Journalism Handbook - Chapter 1: Introduction, CC BY-SA, 출처: jwyg(플리커)](https://www.flickr.com/photos/jwyg/6892044360/in/photolist-bv2wF3-epZQu9-ehBR2S-ecp3D6-eckTCA-eBjc9n-exdpBT-eArfr6-eLTWFA-ecV8sT-et16pU-6eMSU8-eHaqoG-eh6MEm-eNpxAy-eAwNiL-eKZcGX-erCcqh-eqCSZD-eGEfHT-eKSFj4-bHWiJ6-ezgNZe-eFf3CF-bHWiGT-eL6ETS-bv2wJJ-biqxVa-et32Us-ewxwjF-edhoX9-8eDNaT-eLXyYU-eFc5d9-eBqBbf-eAkay3-61QHcU-eFtcV3-eX5sMZ-fiVrNh-ei8bj9-eqyRHC-eAiavm-9E7S2e-ed3cw9-edgCDm-9GRXSS-9Q19dd-fiGHQr-61CvUx)*
+*[Data Journalism Handbook - Chapter 1: Introduction, CC BY-SA, 출처: jwyg(플리커)](https://www.flickr.com/photos/jwyg/6892044360/in/photolist-bv2wF3-epZQu9-ehBR2S-ecp3D6-eckTCA-eBjc9n-exdpBT-eArfr6-eLTWFA-ecV8sT-et16pU-6eMSU8-eHaqoG-eh6MEm-eNpxAy-eAwNiL-eKZcGX-erCcqh-eqCSZD-eGEfHT-eKSFj4-bHWiJ6-ezgNZe-eFf3CF-bHWiGT-eL6ETS-bv2wJJ-biqxVa-et32Us-ewxwjF-edhoX9-8eDNaT-eLXyYU-eFc5d9-eBqBbf-eAkay3-61QHcU-eFtcV3-eX5sMZ-fiVrNh-ei8bj9-eqyRHC-eAiavm-9E7S2
+	e-ed3cw9-edgCDm-9GRXSS-9Q19dd-fiGHQr-61CvUx)*
 
 
 ## 참조
 
-1. *정부에서는 매년 3월 25일 '정기 재산변동사항 신고내역'을 정리하여 고위공직자 재산 정보를 [대한민국 전자관보](http://gwanbo.korea.go.kr/) 홈페이지를 통해 pdf 파일로 공개하고 있다. 직접 pdf를 확인하고 싶으신 분들은 [대한민국 전자관보](http://www.moi.go.kr/frt/sub/a05/gwanboPubNo/screen.do)에 들어가서 제18726호 관보를 열어보면 2016년 3월 정기 공개 파일을 볼 수 있다.*
+1. 사이트 바로가기: [고위공직자 재산 공개 사이트](http://jaesan.newstapa.org)
+
+2. *정부에서는 매년 3월 25일 '정기 재산변동사항 신고내역'을 정리하여 고위공직자 재산 정보를 [대한민국 전자관보](http://gwanbo.korea.go.kr/) 홈페이지를 통해 pdf 파일로 공개하고 있다. 직접 pdf를 확인하고 싶으신 분들은 [대한민국 전자관보](http://www.moi.go.kr/frt/sub/a05/gwanboPubNo/screen.do)에 들어가서 제18726호 관보를 열어보면 2016년 3월 정기 공개 파일을 볼 수 있다.*
