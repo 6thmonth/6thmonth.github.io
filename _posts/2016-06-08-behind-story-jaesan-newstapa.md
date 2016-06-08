@@ -36,7 +36,7 @@ description: "2016년 코드나무가 뉴스타파와 협력하여 구축한 고
 
 ## 공개 이후 반응
 
-![고위공직자 재산 정보 사이트 구글 분석 결과](/images/2016/06/google_analytics_jaesan.png)
+![고위공직자 재산 정보 사이트 구글 분석 결과](/images/2016/06/jaesan_analytics.png)
 
 *고위공직자 재산 정보 사이트 구글 분석 결과*
 
