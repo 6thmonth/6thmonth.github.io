@@ -2,7 +2,10 @@
 layout: post
 title: "[춘식이의 코드이야기] 누군가 허락해 줄 때까지 기다리고만 있지 말아라"
 date: 2014-12-11T10:02:20+07:00
-author: 춘식
+author:
+  display_name: 춘식
+  email: hoonch3@gmail.com
+  url: http://hackerhoony.net
 category: "civic-hacking"
 sitemap: false
 keywords: "civic hacking, 시빅해킹, 코드포필리, code for philly, Lauren Ancona, 춘식이의 코드이야기, 지도, mapbox, open street map, 맵박스, 오픈스트리트맵, 열린정부, open government"
