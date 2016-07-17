@@ -1,14 +1,15 @@
 # Site settings ...
-uri: hoony.de
-url: http://hoony.de
+uri: hackerhoony.net
+url: http://hackerhoony.net
 name: Hoony Chang
-title: "Hoony's hacking stories"
-email: hoonch3@gmail.com
+title: "Hoony's home, sweet home"
+email_public: hoonch3@gmail.com
+email_private: 6thmonth@protonmail.ch
 author: hoony
 baseurl: ""
 keywords: "civic hacker, javascript, node, basketball"
-description: "Hi, I'm hoony, civic hacker in Korea. very enthusiastic at civic hacking, javascript, and basketball."
-social_username: hoonch3
+description: "<b>&lt;me</b> <b>type</b>='civic hacker' <b>language</b>='javascript, rust(starter)' <b>enjoy</b>='coding, moving, basketballing' <b>/&gt;</b>"
+social_username: 6thmonth
 
 # Build settings ...
 sass:
