@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "끌림 - 이병률"
-category: blog
+title: "[잡담] 끌림 - 이병률"
+category: etc
 ---
 
 블로그를 정리하며 발견한 심심한 글

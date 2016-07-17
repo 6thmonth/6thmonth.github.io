@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "다음 DevOn 첫째날"
+title: "[블로그] 다음 DevOn 첫째날"
 category: blog
 ---
 
