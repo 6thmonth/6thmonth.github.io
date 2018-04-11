@@ -1,15 +1,14 @@
 # Site settings ...
-uri: hackerhoony.net
-url: http://hackerhoony.net
+uri: the6thm0nth.github.io
+url: http://the6thm0nth.github.io
 name: Hoony Chang
 title: "Hoony's home, sweet home"
-email_public: hoonch3@gmail.com
-email_private: 6thmonth@protonmail.ch
+email: the6thm0nth@outlook.com
 author: hoony
 baseurl: ""
 keywords: "civic hacker, javascript, node, basketball"
-description: "<b>&lt;me</b> <b>type</b>='civic hacker' <b>language</b>='javascript, rust(starter)' <b>enjoy</b>='coding, moving, basketballing' <b>/&gt;</b>"
-social_username: 6thmonth
+description: "<b>&lt;me</b> <b>type</b>='civic hacker' <b>language</b>='node.js, react.js' <b>enjoy</b>='coding, moving, reading, basketball' <b>/&gt;</b>"
+social_username: the6thm0nth
 
 # Build settings ...
 sass:
