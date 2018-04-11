@@ -1,3 +1,14 @@
+---
+layout: post
+title: "React Router v4에서 경로 보호(Protecting Route) 하기"
+date: 2017-11-26
+author: Hoony
+category: "react"
+sitemap: false
+keywords: "React, Router, React Router v4, 경로 보호, Protecting Route"
+description: "React Router v4에서 경로 보호(Protecting Route) 하기"
+---
+
 # React Router v4에서 경로 보호(Protecting Route) 하기
 
 ## 0. 배경
